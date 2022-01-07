@@ -1,6 +1,6 @@
 # A sample flask application to test integration with redis
 
-# For dependencies
+## For dependencies
 
 python -m venv venv
 pip install Flask
