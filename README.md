@@ -2,6 +2,7 @@
 
 ## For dependencies
 
-python -m venv venv
-pip install Flask
-pip install redis
+1. python -m venv venv
+2. ./venv/Scripts/activate
+3. pip install Flask
+4. pip install redis
